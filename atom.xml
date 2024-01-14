@@ -3,11 +3,11 @@
   <title>SecretGarden</title>
   <icon>https://www.gravatar.com/avatar/1936fdc49c37a20dc92e9d19fcc95c66</icon>
   <subtitle>没有妄想，没有期许，就让今晚熠熠生辉</subtitle>
-  <link href="https://sybil-li-x.github.io/project/atom.xml" rel="self"/>
+  <link href="https://sybil-li-x.github.io/atom.xml" rel="self"/>
   
-  <link href="https://sybil-li-x.github.io/project/"/>
+  <link href="https://sybil-li-x.github.io/"/>
   <updated>2024-01-14T00:22:53.225Z</updated>
-  <id>https://sybil-li-x.github.io/project/</id>
+  <id>https://sybil-li-x.github.io/</id>
   
   <author>
     <name>XinLi</name>
@@ -18,8 +18,8 @@
   
   <entry>
     <title>这是第二篇</title>
-    <link href="https://sybil-li-x.github.io/project/2024/01/14/%E8%BF%99%E6%98%AF%E7%AC%AC%E4%BA%8C%E7%AF%87/"/>
-    <id>https://sybil-li-x.github.io/project/2024/01/14/%E8%BF%99%E6%98%AF%E7%AC%AC%E4%BA%8C%E7%AF%87/</id>
+    <link href="https://sybil-li-x.github.io/2024/01/14/%E8%BF%99%E6%98%AF%E7%AC%AC%E4%BA%8C%E7%AF%87/"/>
+    <id>https://sybil-li-x.github.io/2024/01/14/%E8%BF%99%E6%98%AF%E7%AC%AC%E4%BA%8C%E7%AF%87/</id>
     <published>2024-01-14T00:17:51.000Z</published>
     <updated>2024-01-14T00:22:53.225Z</updated>
     
@@ -40,8 +40,8 @@
   
   <entry>
     <title>第一次测试</title>
-    <link href="https://sybil-li-x.github.io/project/2024/01/14/%E7%AC%AC%E4%B8%80%E6%AC%A1%E6%B5%8B%E8%AF%95/"/>
-    <id>https://sybil-li-x.github.io/project/2024/01/14/%E7%AC%AC%E4%B8%80%E6%AC%A1%E6%B5%8B%E8%AF%95/</id>
+    <link href="https://sybil-li-x.github.io/2024/01/14/%E7%AC%AC%E4%B8%80%E6%AC%A1%E6%B5%8B%E8%AF%95/"/>
+    <id>https://sybil-li-x.github.io/2024/01/14/%E7%AC%AC%E4%B8%80%E6%AC%A1%E6%B5%8B%E8%AF%95/</id>
     <published>2024-01-13T16:10:58.000Z</published>
     <updated>2024-01-14T00:22:39.685Z</updated>
     
